@@ -1,6 +1,6 @@
 # Spirograph
 
-Download executable ---> https://drive.google.com/file/d/1-eETRUCd5dQdMSU00f4HrUsB2V9DPL-S/view
+Download executable(Windows) ---> https://drive.google.com/file/d/1-eETRUCd5dQdMSU00f4HrUsB2V9DPL-S/view
 
 How to use:
 
