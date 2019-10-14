@@ -3,9 +3,7 @@
 Make cool Spirographs and save them! 
 Executable on .zip
 
-
-(https://github.com/JVictorDias/Spirograph/edit/master/preview.jpg)
-
+![Preview-Screens](https://github.com/JVictorDias/Spirograph/edit/master/preview.jpg)
 
 How to use:
 
