@@ -1,10 +1,10 @@
 # Spirograph
 
+![Preview-Screens](https://github.com/JVictorDias/Spirograph/blob/master/preview.png)
+
 Make cool Spirographs and save them! 
 
 Executable on .zip
-
-![Preview-Screens](https://github.com/JVictorDias/Spirograph/blob/master/preview.png)
 
 How to use:
 
