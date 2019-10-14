@@ -4,7 +4,7 @@ Make cool Spirographs and save them!
 Executable on .zip
 
 
-![Alt Text](https://https://github.com/JVictorDias/Spirograph/edit/master/preview.bmp)
+![Alt Text](https://github.com/JVictorDias/Spirograph/edit/master/preview.bmp)
 
 
 How to use:
