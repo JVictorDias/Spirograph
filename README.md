@@ -1,6 +1,7 @@
 # Spirograph
 
 Make cool Spirographs and save them! 
+
 Executable on .zip
 
 ![Preview-Screens](https://github.com/JVictorDias/Spirograph/blob/master/preview.png)
