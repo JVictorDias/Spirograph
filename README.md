@@ -1,6 +1,7 @@
 # Spirograph
 
-Download executable(Windows) ---> https://drive.google.com/file/d/1-eETRUCd5dQdMSU00f4HrUsB2V9DPL-S/view
+Make cool Spirographs and save them! 
+Executable on .zip
 
 How to use:
 
